@@ -1,0 +1,21 @@
+{
+  "Mac" : [
+    {
+      "name" : "Masonry",
+      "hash" : "059bd8dc9f4654dab450829166c4b411cfd44243e6778c4bae3fdb9d60bd4166"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "8bd77ea92bbe995e14c454f821200b222e5a8804",
+  "iOS" : [
+    {
+      "name" : "Masonry",
+      "hash" : "9417253e03090f7fe90a82b54c31b4c3d39555a9bb4a2bf7c080a2575f4c8004"
+    }
+  ]
+}
