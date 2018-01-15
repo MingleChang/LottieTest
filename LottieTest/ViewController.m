@@ -27,8 +27,9 @@
     self.animationView.autoReverseAnimation = YES;
     [self.view addSubview:self.animationView];
     [self.animationView mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.left.top.right.bottom.mas_equalTo(self.view);
-//        make.height.mas_equalTo(self.animationView.mas_width);
+        make.left.top.right.mas_equalTo(self.view);
+        make.height.mas_equalTo(self.animationView.mas_width);
+//        make.edges.mas_equalTo(self.view);
     }];
 }
 
